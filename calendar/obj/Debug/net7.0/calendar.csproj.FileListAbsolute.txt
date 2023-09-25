@@ -1,0 +1,14 @@
+C:\Users\sudeo\source\repos\calendar\calendar\obj\Debug\net7.0\calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudeo\source\repos\calendar\calendar\obj\Debug\net7.0\calendar.AssemblyInfoInputs.cache
+C:\Users\sudeo\source\repos\calendar\calendar\obj\Debug\net7.0\calendar.AssemblyInfo.cs
+C:\Users\sudeo\source\repos\calendar\calendar\obj\Debug\net7.0\calendar.csproj.CoreCompileInputs.cache
+C:\Users\sudeo\source\repos\calendar\calendar\bin\Debug\net7.0\calendar.exe
+C:\Users\sudeo\source\repos\calendar\calendar\bin\Debug\net7.0\calendar.deps.json
+C:\Users\sudeo\source\repos\calendar\calendar\bin\Debug\net7.0\calendar.runtimeconfig.json
+C:\Users\sudeo\source\repos\calendar\calendar\bin\Debug\net7.0\calendar.dll
+C:\Users\sudeo\source\repos\calendar\calendar\bin\Debug\net7.0\calendar.pdb
+C:\Users\sudeo\source\repos\calendar\calendar\obj\Debug\net7.0\calendar.dll
+C:\Users\sudeo\source\repos\calendar\calendar\obj\Debug\net7.0\refint\calendar.dll
+C:\Users\sudeo\source\repos\calendar\calendar\obj\Debug\net7.0\calendar.pdb
+C:\Users\sudeo\source\repos\calendar\calendar\obj\Debug\net7.0\calendar.genruntimeconfig.cache
+C:\Users\sudeo\source\repos\calendar\calendar\obj\Debug\net7.0\ref\calendar.dll
